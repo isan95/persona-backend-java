@@ -1,0 +1,6 @@
+com\polanco\servicio\PersonaServiceRS.class
+com\polanco\web\CorsFilter.class
+com\polanco\web\JAXRSActivator.class
+com\polanco\data\PersonaDao.class
+com\polanco\data\PersonaDaoImpl.class
+com\polanco\domain\Persona.class
